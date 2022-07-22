@@ -35,7 +35,7 @@
 				{re: /bazinga/gmi, file: "bazinga.mp3", duration: 550},
 				{re: /oof/gmi, file: "oof.mp3", duration: 250},
 				{re: /bruh/gmi, file: "bruh.mp3", duration: 470},
-				{re: /huh/gmi, file: "huh.mp3", duration: 3000}
+				{re: /huh/gmi, file: "huh.mp3", duration: 362}
 			];
 
 			/* Double message event fix */
